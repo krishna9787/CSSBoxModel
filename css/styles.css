@@ -1,0 +1,41 @@
+.frame {
+    width:600px;
+    height:500px;
+    overflow:hidden;
+    background-color:chocolate;
+    margin:0;
+    padding:50px;
+}
+.canvas {
+    width: 470px;
+    height: 370px;
+    background-color:aqua;
+    border: 30px solid white;
+    padding: 30px;
+    filter:blur(2px);
+}
+
+.one {
+    width: 450px;
+    height: 200px;
+    background-color: red;
+    border-radius:10px 20px 10px 20px;
+    filter:blur(2px);
+}
+
+.two{
+    width: 450px;
+    height: 100px;
+    background-color: green;
+    margin: 10px 0;
+    border-radius:10px 20px 10px 20px;
+    filter:blur(2px);
+}
+
+.three {
+    width: 450px;
+    height: 50px;
+    background-color:blue;
+    border-radius:10px 20px 10px 20px;
+    filter:blur(2px);
+}
